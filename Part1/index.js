@@ -71,7 +71,7 @@ function play(clickedId){
     }
     function boardReset(reset){
         let resetBoard = document.getElementById('resetBoard');
-        if(boardFull === true){
+        if(boardFull = true){
             
         }
     }
